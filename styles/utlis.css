@@ -4,7 +4,7 @@
   --shadow-color: #bbb1c0;
   --text-color: #2d3748;
   --background-color: #ddd7e0;
-  --shadow:  11px 11px 11px #21212133; 
+  --shadow: 11px 11px 11px #21212133;
 }
 * {
   color: var(--text-color);
@@ -55,7 +55,9 @@
 .m2 {
   margin: 2rem;
 }
-
+.m1{
+  margin: 1rem;
+}
 .mr-2 {
   margin-right: 2rem;
 }
@@ -67,6 +69,29 @@
 .background {
   background-color: var(--background-color);
 }
-.box-shadow {
+.box-shadow-drawer {
+  
   box-shadow: 1px 1px 1px 1px var(--shadow-color);
+}
+
+.mb-1{
+  margin-bottom: 2rem;
+}
+
+.m-tb-1{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.btn-add-to-cart {
+  /* background-color: var(--primary-color);
+  color:var(--white); */
+  border-radius: 0;
+  width:13rem;
+  margin-bottom: 1rem;
+}
+
+.item {
+  border-radius: 0.2rem;
+ /* padding: 0;
+ margin: 0; */
 }
