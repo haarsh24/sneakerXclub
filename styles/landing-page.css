@@ -1,0 +1,37 @@
+.input-search {
+  border: 0.2rem solid var(--primary-color);
+  margin: 0;
+}
+
+.landing-page-img {
+  width: 100%;
+}
+
+.index-title {
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+.front-display-div {
+  padding-top: 0;
+  margin-top: 0;
+}
+.collection-img {
+  width: 15rem;
+  height: 20rem;
+}
+
+.product-collection-detail {
+  justify-content: space-between;
+}
+.collection-detail:hover {
+  box-shadow: var(--shadow);
+}
+
+@media only screen and (max-width: 600px) {
+  * {
+    font-size: 75%;
+  }
+  .product-collection {
+    flex-wrap: wrap;
+  }
+}
