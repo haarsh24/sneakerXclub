@@ -95,3 +95,17 @@
  /* padding: 0;
  margin: 0; */
 }
+
+
+.secondary{
+  color:var(--primary-color);
+  background-color: var(--shadow-color);
+}
+
+.space-between{
+  justify-content: space-between;
+}
+
+.space-around{
+  justify-content: space-around;
+}
