@@ -3,6 +3,8 @@
   --primary-color: #6b46c1;
   --secondary-color: #f9f9f9;
   --shadow-color: #bbb1c0;
+  --text-color:#2D3748;
+
 }
 
 .ml-2 {
@@ -32,3 +34,20 @@
   position: sticky;
   top: 0rem;
 }
+
+.m3{
+  margin:3rem;
+}
+
+.m2{
+  margin: 2rem;
+}
+
+.mr-2{
+  margin-right: 2rem;
+}
+
+.p5{
+  padding:5rem
+}
+
