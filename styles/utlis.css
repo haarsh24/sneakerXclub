@@ -3,7 +3,16 @@
   --primary-color: #6b46c1;
   --secondary-color: #f9f9f9;
   --shadow-color: #bbb1c0;
-  --text-color:#2D3748;
+
+  --text-color: #2d3748;
+  --background-color: #ddd7e0;
+  --shadow:  11px 11px 11px #21212133; 
+}
+* {
+  color: var(--text-color);
+}
+
+  
 
 }
 
@@ -33,6 +42,41 @@
   border-radius: 0 0 1rem 1rem;
   position: sticky;
   top: 0rem;
+}
+
+
+.m3 {
+  margin: 3rem;
+}
+
+.m1 {
+  margin: 1rem;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row {
+  display: flex;
+}
+.m2 {
+  margin: 2rem;
+}
+
+.mr-2 {
+  margin-right: 2rem;
+}
+
+.p5 {
+  padding: 5rem;
+}
+
+.background {
+  background-color: var(--background-color);
+}
+.box-shadow {
+  box-shadow: 1px 1px 1px 1px var(--shadow-color);
 }
 
 .m3{
