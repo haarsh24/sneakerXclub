@@ -1,16 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 :root {
   --primary-color: #6b46c1;
-  --secondary-color: #f9f9f9;
+  --secondary-color: #2a2828;
   --shadow-color: #bbb1c0;
 
-  --text-color: #2d3748;
+  --text-color: #fafafa;
   --background-color: #ddd7e0;
-  --shadow: 11px 11px 11px #21212133;
+  --shadow: 5px 5px 9px #392566, -5px -5px 9px #9d67ff;
 }
 * {
   color: var(--text-color);
 }
-
+body {
+  background-color: var(--secondary-color);
+}
 .ml-2 {
   margin-left: 2rem;
 }
@@ -111,4 +114,32 @@
 
 .p5 {
   padding: 5rem;
+}
+
+.btn {
+  padding: 1rem;
+  border-radius: 15px;
+  background: #6b46c1;
+  box-shadow: 5px 5px 9px #392566, -5px -5px 9px #9d67ff;
+}
+.card-container {
+  border-radius: 15px;
+  background: #6b46c1;
+  box-shadow: 5px 5px 1px #392566, -5px -5px 1px #9d67ff;
+}
+
+
+
+img{
+  border-radius: 15px;
+}
+.center{
+  align-items: center;
+}
+.logo{
+  font-family: 'Festive', cursive;
+}
+.name-tag{
+  color:var(--primary-color);
+
 }
