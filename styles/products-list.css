@@ -50,12 +50,16 @@
   }
   .wrapper {
     align-items: center;
-    grid-template-areas:
-      "product product  "
-      "product product   "
-      "product product"
-      "product product"
-      "product product"
-      "product product";
+     grid-template-areas:
+      "product "
+      "product "
+      "product "
+      "product "
+      "product "
+      "product ";
+   } 
+  .products-wrapper{
+    justify-content: center;
+    align-items: center;
   }
 }
