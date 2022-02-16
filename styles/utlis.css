@@ -116,18 +116,6 @@ body {
   padding: 5rem;
 }
 
-.space-between {
-  justify-content: space-between;
-}
-
-.space-around {
-  justify-content: space-around;
-}
-
-.secondary {
-  color: var(--primary-color);
-  background-color: var(--shadow-color);
-
 .btn {
   padding: 1rem;
   border-radius: 15px;
