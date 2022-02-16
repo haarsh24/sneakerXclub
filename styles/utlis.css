@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 :root {
   --primary-color: #6b46c1;
-  --secondary-color: #2a2828;
+  --secondary-color: #0D1117;
   --shadow-color: #bbb1c0;
-
   --text-color: #fafafa;
   --background-color: #ddd7e0;
   --shadow: 5px 5px 9px #392566, -5px -5px 9px #9d67ff;
+  --shadow-dark:#392566;
+  --shadow-light:#9d67ff;
 }
 * {
   color: var(--text-color);
@@ -20,7 +21,9 @@ body {
 .p1 {
   padding: 0 1rem;
 }
-
+input{
+  color: var(--secondary-color);
+}
 .btn {
   border: none !important;
 }
@@ -119,17 +122,14 @@ body {
 .btn {
   padding: 1rem;
   border-radius: 15px;
-  background: #6b46c1;
-  box-shadow: 5px 5px 9px #392566, -5px -5px 9px #9d67ff;
+  background: var(--primary-color);
+  box-shadow: 5px 5px 9px var(--shadow-dark), -5px -5px 9px var(--shadow-light);
 }
 .card-container {
   border-radius: 15px;
-  background: #6b46c1;
-  box-shadow: 5px 5px 1px #392566, -5px -5px 1px #9d67ff;
+  background: var(--primary-color);
+  box-shadow: 5px 5px 1px var(--shadow-dark), -5px -5px 1px var(--shadow-light);
 }
-
-
-
 img{
   border-radius: 15px;
 }
@@ -142,4 +142,20 @@ img{
 .name-tag{
   color:var(--primary-color);
 
+}
+.space-between {
+  justify-content: space-between;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+
+.secondary {
+  color: var(--primary-color);
+  background-color: var(--shadow-color);
+}
+
+.products-wrapper{
+  margin-left: 3rem;
 }
