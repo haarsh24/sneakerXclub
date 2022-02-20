@@ -14,3 +14,13 @@
 - [Cart Page](https://sneakerxclub.netlify.app/pages/cart.html) 
 - [Wishlist Page](https://sneakerxclub.netlify.app/pages/wishlist.html)  
 - [Single Product Page](https://sneakerxclub.netlify.app/pages/product.html)  
+
+</br>
+⭐Glad to see you here! Show some love by ⭐Starring <a href="https://github.com/haarsh24/sneakerXclub"> Sneaker X Club </a>  🚀  repo. ⭐
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codeandchords" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeandchords" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumarharshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarharshn" height="30" width="40" /></a>
+<a href="https://instagram.com/haarshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haarshn" height="30" width="40" /></a>
+</p>
