@@ -4,9 +4,11 @@
 } 
 .header{
   margin-bottom: 0;
-  padding-bottom: 0;
+  /* padding-bottom: 0; */
   width:100%;
   height: fit-content;
+  border:none;
+  position: relative;
 }
 .logo{
   font-size: 3rem;

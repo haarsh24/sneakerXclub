@@ -36,9 +36,11 @@
 .drawer {
   justify-content: space-around;
   position: sticky;
-  top: 10rem;
+  top: 5rem;
   right: 0;
   margin-right: auto;
+  border: none;
+  row-gap: 1rem;
 }
 
 @media only screen and (max-width: 600px) {
