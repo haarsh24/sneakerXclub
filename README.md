@@ -15,6 +15,13 @@
 - [Wishlist Page](https://sneakerxclub.netlify.app/pages/wishlist.html)  
 - [Single Product Page](https://sneakerxclub.netlify.app/pages/product.html)  
 
+
+## Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Javascript](https://img.shields.io/badge/-Javascript-blueviolet)
+
 </br>
 ⭐Glad to see you here! Show some love by ⭐Starring <a href="https://github.com/haarsh24/sneakerXclub"> Sneaker X Club </a>  🚀  repo. ⭐
 </br>
